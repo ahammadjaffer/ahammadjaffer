@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web development and python coding
 - 🌱 I’m currently learning React for front end development
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me - Leave a comment, I will contact you.
 
 <!---
 ahammadjaffer/ahammadjaffer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
